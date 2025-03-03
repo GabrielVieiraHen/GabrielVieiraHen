@@ -1,9 +1,9 @@
 # 🏄‍♂️ Gabriel Vieira
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+Sobre mim 👨‍💻🚀
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-
+Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. 💡 Atualmente, estou cursando Engenharia Informática na Europa e tenho experiência em C++, C# e Python. 🔥
+Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir soluções eficientes. Seja desenvolvendo aplicações, otimizando código ou trabalhando com sistemas de baixo nível, estou sempre buscando aprender e evoluir! 🎯
 
 
 ### 🧰 Languages and Tools
