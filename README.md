@@ -40,7 +40,7 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
     />
 </p>
 
-<img align="right" alt="Icon" width="30px" style="padding-right:30px;" src="https://cdn.picrew.me/shareImg/org/202503/35494_w8PaHhGv.png" />
+<img align="right" alt="Icon" width="70px" style="padding-right:30px;" src="https://cdn.picrew.me/shareImg/org/202503/35494_w8PaHhGv.png" />
  
 
     
