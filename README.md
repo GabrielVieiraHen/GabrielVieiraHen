@@ -17,7 +17,7 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Burp_Suite_Logo.svg" />
+<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://www.paq.com.au/wp-content/uploads/2023/03/Burp-Suite-logo.png" />
 <img align="left" alt="ISAPI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet_Information_Services_logo.svg" />
 <br />
 
