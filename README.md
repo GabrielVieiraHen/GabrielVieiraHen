@@ -39,10 +39,13 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieiraHen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
 </p>
-/n
-/n
-/n
-/n
+
+
+
+
+
+
+
 <img align="right" alt="Icon" width="160px" style="padding-right:30px;" src="https://cdn.picrew.me/shareImg/org/202503/35494_w8PaHhGv.png" />
  
 
