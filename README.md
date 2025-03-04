@@ -15,8 +15,7 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1459A842PA3861PT28D1048988355W10000H10000/views/1,width=650,height=650,appearanceId=842,backgroundColor=ffffff/burp-suite-icon.jpg" />
 <img align="left" alt="ISAPI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet_Information_Services_logo.svg" />
 <br />
