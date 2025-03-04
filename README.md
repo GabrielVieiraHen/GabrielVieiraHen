@@ -22,9 +22,9 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
 ---
 
 ### 📊 Stats
-
+<p>
 ![Gabriel Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVieiraHen&show_icons=true&theme=gruvbox)
-
+/>
 <img 
     align="left"
     alt="Github Stats"
