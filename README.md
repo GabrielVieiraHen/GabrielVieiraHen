@@ -40,14 +40,7 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
     />
 </p>
 
-### Icon
-<img 
-        align="right"
-        alt="Github Stats"
-        height="200"
-        src="https://cdn.picrew.me/shareImg/org/202503/35494_w8PaHhGv.png"
-        style="padding-right:10px
-    />
+<img align="right" alt="Icon" width="30px" style="padding-right:10px;" src="https://cdn.picrew.me/shareImg/org/202503/35494_w8PaHhGv.png" />
  
 
     
