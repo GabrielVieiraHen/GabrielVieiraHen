@@ -26,7 +26,9 @@ Gosto de explorar novas tecnologias, resolver problemas desafiadores e construir
 
 ### 📊 Stats
 
+### 📊 Stats
+
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielVieiraHen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieiraHen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielVieiraHen&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVieiraHen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 </div>
