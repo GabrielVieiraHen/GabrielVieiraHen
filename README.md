@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielVieiraHen/Rice-Arch">
-    <img src="https://raw.githubusercontent.com/GabrielVieiraHen/Rice-Arch/refs/heads/main/preview.png" alt="Hyprland Rice Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 900px;"/>
+    <img src="https://github.com/GabrielVieiraHen/Rice-Arch/blob/main/screenshots/wifi.png?raw=true" alt="Hyprland Rice Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 900px;"/>
   </a>
 </div>
 
